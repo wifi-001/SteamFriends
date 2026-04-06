@@ -12,4 +12,3 @@
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
 
-## Steam好友列表
